@@ -1,0 +1,15 @@
+body {
+  background-color: #ecfbfc;
+}
+hr {
+  border-color: gray;
+}
+h2 {
+  color: #162447;
+}
+img {
+  border-radius: 50%;
+}
+table {
+  border: black;
+}
